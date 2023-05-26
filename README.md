@@ -14,7 +14,7 @@ is open or close and gas cylinder price</p>
 • Admin <br>
 • Home customer <br>
 • Business customer <br>
-#Main Advantage
+<h3>Main Advantage</h3>
 The main advantage of the system is listed below.
 1. Customer can apply change address change ownership etc..
 2. Customer can view previous gas booking history and  book gas cylinder
