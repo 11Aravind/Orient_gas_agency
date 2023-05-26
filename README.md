@@ -8,7 +8,9 @@ done with the system.
 The main advantage of the system is user can view previous gas booking
 history, gas cylinder arrival date and time, user applied from status gas agency
 is open or close and gas cylinder price
-#The proposed system divided into three modules:
+
+<div>The proposed system divided into three modules:</div>
+
 • Admin
 • Home customer
 • Business customer
