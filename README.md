@@ -28,6 +28,8 @@ The main advantage of the system is listed below.<br>
 10. Easy to find a particular customer details<br>
 11. User can send complaint and feedback<br>
 12. Apply new gas connection request<br>
+
+<img src="https://cdn-icons-png.flaticon.com/512/1285/1285954.png" width="50" height="50"/>
 <h3>User Interface</h3><br>
 <img src="./front/images/gas.png" alt="homepage" />
 
