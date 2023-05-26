@@ -15,16 +15,16 @@ is open or close and gas cylinder price</p>
 • Home customer <br>
 • Business customer <br>
 <h3>Main Advantage</h3>
-The main advantage of the system is listed below.
-1. Customer can apply change address change ownership etc..
-2. Customer can view previous gas booking history and  book gas cylinder
-3. Customer can view the gas cylinder arrival date and time
-4. Change connected phone number
-5. Customer can apply second cylinder
-6. Customer can view his applied application form status
-7. Customer can easily download/print the transfer termination voucher
-8. Customer can view, the gas agency is open or close
-9. Customer can find the Gas cylinder price
-10. Easy to find a particular customer details
-11. User can send complaint and feedback
-12. Apply new gas connection request
+The main advantage of the system is listed below.<br>
+1. Customer can apply change address change ownership etc..<br>
+2. Customer can view previous gas booking history and  book gas cylinder<br>
+3. Customer can view the gas cylinder arrival date and time<br>
+4. Change connected phone number<br>
+5. Customer can apply second cylinder<br>
+6. Customer can view his applied application form status<br>
+7. Customer can easily download/print the transfer termination voucher<br>
+8. Customer can view, the gas agency is open or close<br>
+9. Customer can find the Gas cylinder price<br>
+10. Easy to find a particular customer details<br>
+11. User can send complaint and feedback<br>
+12. Apply new gas connection request<br>
