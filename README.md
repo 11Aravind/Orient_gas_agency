@@ -9,7 +9,7 @@ done with the system.
 history, gas cylinder arrival date and time, user applied from status gas agency
 is open or close and gas cylinder price</p>
 
-<div>The proposed system divided into three modules:</div>
+<div><b>The proposed system divided into three modules:</b></div>
 
 • Admin <br>
 • Home customer <br>
