@@ -28,3 +28,4 @@ The main advantage of the system is listed below.<br>
 10. Easy to find a particular customer details<br>
 11. User can send complaint and feedback<br>
 12. Apply new gas connection request<br>
+<img src="./front/images/gas.png" alt="homepage" />
