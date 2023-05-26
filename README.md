@@ -5,15 +5,15 @@ available of all the services of the gas center.This Web Application helps to
 create a computerized system for all manual services like new connection,
 Second cylinder, transfer ofownership, change address and gas booking can be
 done with the system.
-The main advantage of the system is user can view previous gas booking
+<p>The main advantage of the system is user can view previous gas booking
 history, gas cylinder arrival date and time, user applied from status gas agency
-is open or close and gas cylinder price
+is open or close and gas cylinder price</p>
 
 <div>The proposed system divided into three modules:</div>
 
-• Admin
-• Home customer
-• Business customer
+• Admin <br>
+• Home customer <br>
+• Business customer <br>
 #Main Advantage
 The main advantage of the system is listed below.
 1. Customer can apply change address change ownership etc..
